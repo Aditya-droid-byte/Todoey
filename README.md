@@ -2,7 +2,7 @@
 
 
 # Todoey
-An app to keep track of your checklist.
+An app to keep track of your checklist. Created while learning how to manage state in flutter.
 
 
 # Finished App
